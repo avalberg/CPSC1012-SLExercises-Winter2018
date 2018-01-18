@@ -1,0 +1,12 @@
+D:\SL\MyResources\Week 2\Adding Numbers From String\AddingNumbersFromString\bin\Debug\AddingNumbersFromString.exe.config
+D:\SL\MyResources\Week 2\Adding Numbers From String\AddingNumbersFromString\bin\Debug\AddingNumbersFromString.exe
+D:\SL\MyResources\Week 2\Adding Numbers From String\AddingNumbersFromString\bin\Debug\AddingNumbersFromString.pdb
+D:\SL\MyResources\Week 2\Adding Numbers From String\AddingNumbersFromString\obj\Debug\AddingNumbersFromString.csprojResolveAssemblyReference.cache
+D:\SL\MyResources\Week 2\Adding Numbers From String\AddingNumbersFromString\obj\Debug\AddingNumbersFromString.exe
+D:\SL\MyResources\Week 2\Adding Numbers From String\AddingNumbersFromString\obj\Debug\AddingNumbersFromString.pdb
+E:\SL\MyResources\Week 2\Adding Numbers From String\AddingNumbersFromString\bin\Debug\AddingNumbersFromString.exe.config
+E:\SL\MyResources\Week 2\Adding Numbers From String\AddingNumbersFromString\obj\Debug\AddingNumbersFromString.exe
+E:\SL\MyResources\Week 2\Adding Numbers From String\AddingNumbersFromString\obj\Debug\AddingNumbersFromString.pdb
+E:\SL\MyResources\Week 2\Adding Numbers From String\AddingNumbersFromString\bin\Debug\AddingNumbersFromString.exe
+E:\SL\MyResources\Week 2\Adding Numbers From String\AddingNumbersFromString\bin\Debug\AddingNumbersFromString.pdb
+E:\SL\MyResources\Week 2\Adding Numbers From String\AddingNumbersFromString\obj\Debug\AddingNumbersFromString.csprojResolveAssemblyReference.cache
