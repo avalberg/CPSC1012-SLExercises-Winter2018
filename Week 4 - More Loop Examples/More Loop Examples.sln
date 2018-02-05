@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessANumber", "GuessANumber\GuessANumber.csproj", "{F1ECE55B-09B9-4AAE-A884-EB2AD59B7082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawATriangle", "DrawATriangle\DrawATriangle.csproj", "{6238C383-86E4-4CD1-AC06-AEE90A807FB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1ECE55B-09B9-4AAE-A884-EB2AD59B7082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1ECE55B-09B9-4AAE-A884-EB2AD59B7082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1ECE55B-09B9-4AAE-A884-EB2AD59B7082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1ECE55B-09B9-4AAE-A884-EB2AD59B7082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6238C383-86E4-4CD1-AC06-AEE90A807FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6238C383-86E4-4CD1-AC06-AEE90A807FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6238C383-86E4-4CD1-AC06-AEE90A807FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6238C383-86E4-4CD1-AC06-AEE90A807FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
