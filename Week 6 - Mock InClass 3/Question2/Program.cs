@@ -10,8 +10,6 @@ namespace Question2
     {
         static void Main(string[] args)
         {
-            Console.Write("{0,12}{1:C,12}","test",0);
-
             // declaring my variables
             string province, slogan;
             
